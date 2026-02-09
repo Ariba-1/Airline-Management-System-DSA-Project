@@ -26,9 +26,3 @@ The project leverages specific Data Structures (DSA) to optimize performance:
 * **Booking Engine:** Real-time seat availability checks and total price calculation.
 * **Flexible Cancellation:** Options for both **Full Cancellation** (removing the booking) and **Partial Cancellation** (restoring specific seats to the flight).
 * **Payment Flow:** A simulated credit/debit card payment interface.
-
-## How to Run
-1. Ensure you have a C++ compiler installed (like MinGW or Clang).
-2. Clone the repository.
-3. Compile the main file: `g++ main.cpp -o AirlineSystem`
-4. Run the executable: `./AirlineSystem`
